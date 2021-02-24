@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://gitraya.github.io/recipe-blog/">
+    <a href="https://gitraya.github.io/recipe-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/gitraya/recipe-blog">
+    <a href="https://github.com/gitraya/recipe-page">
       Solution
     </a>
     <span> | </span>
